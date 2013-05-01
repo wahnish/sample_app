@@ -1,6 +1,7 @@
 @import "bootstrap";
 
 /* mixins, variables, etc. */
+
 $grayMediumLight: #eaeaea;
 
 @mixin box_sizing {
@@ -116,6 +117,7 @@ footer {
 }
 
 /* sidebar */
+
 aside {
 	section {
 		padding: 10px 0;
@@ -144,6 +146,7 @@ aside {
 }
 
 /* forms */
+
 input, textarea, select, .uneditable-input {
 	border: 1px solid #bbb;
 	width: 100%;
